@@ -61,3 +61,7 @@ The interface is built with a clean, modern UI using TailwindCSS. It emphasizes 
 
 The E-Commerce Web App — Pro successfully integrates modern frontend technologies to deliver a complete shopping experience. It balances simplicity and functionality while showcasing strong skills in React, TypeScript, and responsive UI/UX design. With potential extensions for real-world use, it serves as both a practical tool and a strong portfolio project.
 
+
+Output: - 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/765934f1-499c-4033-9ca1-26fce960fb4b" />
+
